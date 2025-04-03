@@ -8,13 +8,17 @@ fun main(){
     fruits.add("kiwi")
 //    println(fruits)
 
+    for(num in nums){
+        println(num)
+    }
+
 //    for ( i in 0 until fruits.size){
 //        println("wanna eat ${fruits[i]}? ")
 //    }
 
-    for (i in fruits.size-1 downTo 0){
-        println(fruits[i])
-    }
+//    for (i in fruits.size-1 downTo 0){
+//        println(fruits[i])
+//    }
 
 
 
