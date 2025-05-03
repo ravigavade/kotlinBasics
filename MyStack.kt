@@ -25,5 +25,4 @@ class MyStack {
     fun size():Int{
         return list.size
     }
-
 }
