@@ -4,7 +4,6 @@ fun main() {
     val first = ListNode(1)
     val second = ListNode(2)
     val third = ListNode(3)
-
     val fourth = ListNode(4)
     val figth = ListNode(5)
 
