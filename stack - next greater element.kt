@@ -2,7 +2,7 @@
 
 fun main(){
 
-    val nums = intArrayOf(6,8,0,1,9,1)
+    val nums = intArrayOf(6,8,0,1,3)
     val stack = ArrayDeque<Int>()
     val result = IntArray(nums.size)
 
